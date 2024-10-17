@@ -54,6 +54,13 @@
             "logo": "https://www.drkjodhpur.com/ver3/images/services/uti.png",
             "service_name": "PAN center",
             "desc": "UTI Infrastructure Technology And Services Limited (UTIITSL) is a Government Company under section 2(45) of the Companies Act 2013,"
+        },
+        {
+            "id": 5,
+            "bannerImage": "https://www.drkjodhpur.com/ver3/images/services/pen.jpg",
+            "logo": "https://www.drkjodhpur.com/ver3/images/services/uti.png",
+            "service_name": "PAN center",
+            "desc": "UTI Infrastructure Technology And Services Limited (UTIITSL) is a Government Company under section 2(45) of the Companies Act 2013,"
         }
     ]
 }
