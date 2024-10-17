@@ -1,54 +1,54 @@
 {
-    "heroSectionSlider": [
-        {
-            "id": 5,
-            "image": "https://qph.cf2.quoracdn.net/main-qimg-d97b3ebb792671b16803f260b3a20475-lq",
-            "title": "Why to Digital Life Value-added Service"
-        },
-        {
-            "id": 2,
-            "image": "https://miro.medium.com/v2/resize:fit:2000/1*BNJr5BlL8NZEwHS1LpxTew.jpeg",
-            "title": "Government & Non Government Services"
-        },
-        {
-            "id": 3,
-            "image": "https://wallpapers.com/images/featured/nature-2ygv7ssy2k0lxlzu.jpg",
-            "title": "Why to Digital Life Value-added Service"
-        },
-        {
-            "id": 4,
-            "image": "https://i.pinimg.com/736x/a5/9a/a2/a59aa2699c58fde95b99e5c6fe4014f7.jpg",
-            "title": "Government & Non Government Services"
-        }
-    ],
-    "serviceCards": [
-        {
-            "id": 1,
-            "bannerImage": "https://www.drkjodhpur.com/ver3/images/services/v2-1.jpg",
-            "logo": "https://www.drkjodhpur.com/ver3/images/services/emitra.png",
-            "service_name": "E-Mitra",
-            "desc": "E-mitra service has been launched by government of Rajasthan. It is available in all 33 districts of Rajasthan. "
-        },
-        {
-            "id": 2,
-            "bannerImage": "https://www.drkjodhpur.com/ver3/images/services/v2-3.jpg",
-            "logo": "https://www.drkjodhpur.com/ver3/images/services/aadhar.png",
-            "service_name": "aadhar center",
-            "desc": "Aadhaar Seva Kendra project, UIDAI plans to set up 114 Aadhaar Seva Kendra across 53 cities in India. These include dedicated centres in all metro cities"
-        },
-        {
-            "id": 3,
-            "bannerImage": "https://www.drkjodhpur.com/ver3/images/services/CSP.png",
-            "logo": "https://www.drkjodhpur.com/ver3/images/services/csp100.png",
-            "service_name": "CSP",
-            "desc": " become Bank Mitra for State Bank of India, Bank of Baroda, Bank of India and Punjab National Bank."
-        },
-        {
-            "id": 4,
-            "bannerImage": "https://www.drkjodhpur.com/ver3/images/services/pen.jpg",
-            "logo": "https://www.drkjodhpur.com/ver3/images/services/uti.png",
-            "service_name": "PAN center",
-            "desc": "UTI Infrastructure Technology And Services Limited (UTIITSL) is a Government Company under section 2(45) of the Companies Act 2013,"
-        }
-    ]
+  "heroSectionSlider": [
+    {
+      "id": 5,
+      "image": "https://qph.cf2.quoracdn.net/main-qimg-d97b3ebb792671b16803f260b3a20475-lq",
+      "title": "Why to Digital Life Value-added Service"
+    },
+    {
+      "id": 2,
+      "image": "https://miro.medium.com/v2/resize:fit:2000/1*BNJr5BlL8NZEwHS1LpxTew.jpeg",
+      "title": "Government & Non Government Services"
+    },
+    {
+      "id": 3,
+      "image": "https://wallpapers.com/images/featured/nature-2ygv7ssy2k0lxlzu.jpg",
+      "title": "Why to Digital Life Value-added Service"
+    },
+    {
+      "id": 4,
+      "image": "https://i.pinimg.com/736x/a5/9a/a2/a59aa2699c58fde95b99e5c6fe4014f7.jpg",
+      "title": "Government & Non Government Services"
+    }
+  ],
+  "serviceCards": [
+    {
+      "id": 1,
+      "bannerImage": "https://www.drkjodhpur.com/ver3/images/services/v2-1.jpg",
+      "logo": "https://www.drkjodhpur.com/ver3/images/services/emitra.png",
+      "service_name": "E-Mitra",
+      "desc": "E-mitra service has been launched by government of Rajasthan. It is available in all 33 districts of Rajasthan. "
+    },
+    {
+      "id": 2,
+      "bannerImage": "https://www.drkjodhpur.com/ver3/images/services/v2-3.jpg",
+      "logo": "https://www.drkjodhpur.com/ver3/images/services/aadhar.png",
+      "service_name": "aadhar center",
+      "desc": "Aadhaar Seva Kendra project, UIDAI plans to set up 114 Aadhaar Seva Kendra across 53 cities in India. These include dedicated centres in all metro cities"
+    },
+    {
+      "id": 3,
+      "bannerImage": "https://www.drkjodhpur.com/ver3/images/services/CSP.png",
+      "logo": "https://www.drkjodhpur.com/ver3/images/services/csp100.png",
+      "service_name": "CSP",
+      "desc": " become Bank Mitra for State Bank of India, Bank of Baroda, Bank of India and Punjab National Bank."
+    },
+    {
+      "id": 4,
+      "bannerImage": "https://www.drkjodhpur.com/ver3/images/services/pen.jpg",
+      "logo": "https://www.drkjodhpur.com/ver3/images/services/uti.png",
+      "service_name": "PAN center",
+      "desc": "UTI Infrastructure Technology And Services Limited (UTIITSL) is a Government Company under section 2(45) of the Companies Act 2013,"
+    }
+  ]
 }
